@@ -32,7 +32,7 @@
     "bitcore-payment-protocol": "git://github.com/digiassetindonesia/bitcore-payment-protocol.git",
     "json-stable-stringify": "^1.0.0",
     "lodash": "^4.17.11",
-    "digiasset-bitcore-lib": "https://github.com/digiassetindonesia/digicoincore-lib.git",
+    "digiasset-bitcore-lib": "https://github.com/digiassetindonesia/digiasset-bitcore-lib.git",
     "preconditions": "^2.2.1",
     "sjcl": "1.0.3",
     "superagent": "^3.4.1"
